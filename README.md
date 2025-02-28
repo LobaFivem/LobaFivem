@@ -14,7 +14,7 @@ Learning advanced LUA optimization techniques and exploring new tools in the Fiv
 ## 📬 Contact Me
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/kjYUWFFsfV)
 
-:tools: Tech Stack
+🛠 Tech Stack
 ![LUA](https://skillicons.dev/icons?i=lua)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![HTML](https://skillicons.dev/icons?i=html)
