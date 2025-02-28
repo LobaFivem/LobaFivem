@@ -20,6 +20,7 @@ Learning advanced LUA optimization techniques and exploring new tools in the Fiv
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![FiveM](https://skillicons.dev/icons?i=fivem)
+![MYSQL](https://skillicons.dev/icons?i=mysql)
 
 ---
 
