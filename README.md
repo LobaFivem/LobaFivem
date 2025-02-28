@@ -23,8 +23,6 @@ Learning advanced LUA optimization techniques and exploring new tools in the Fiv
 ![REACT](https://skillicons.dev/icons?i=react)
 
 
----
-
 # 🌟 Lo que hago
 Desarrollo **scripts optimizados** para **FiveM.**
 Mejoras en el **rendimiento de servidores y funcionalidades personalizadas** para mejorar la experiencia de los jugadores.
