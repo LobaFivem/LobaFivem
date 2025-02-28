@@ -14,13 +14,14 @@ Learning advanced LUA optimization techniques and exploring new tools in the Fiv
 ## 📬 Contact Me
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/kjYUWFFsfV)
 
-## 🛠 Tech Stack
+## 🛠️ Technologies I manage
 ![LUA](https://skillicons.dev/icons?i=lua)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![REACT](https://skillicons.dev/icons?i=react)
-![MYSQL](https://skillicons.dev/icons?i=mysql)
+![MYSQL](https://skillicons.dev/icons?i=mysql) 
+![VSCODE](https://skillicons.dev/icons?i=vscode)
 
 
 # 🌟 Lo que hago
