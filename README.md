@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy @LobaFivem
+🚀 **Desarrollador especializado en LUA y FiveM.**
+Actualmente desarrollando **Lacarma3** y creando **scripts personalizados** para **FiveM.**
 
-<!--
-**LobaFivem/LobaFivem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🔥 About Me
+🎯 **Areas of Expertise:**
 
-Here are some ideas to get you started:
+LUA script development for FiveM.
+Server optimization and performance improvements.
+Implementation of advanced features within the FiveM framework.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Currently:
+Learning advanced LUA optimization techniques and exploring new tools in the FiveM ecosystem.
+## 📬 Contact Me
+[![Discord]
+(https://skillicons.dev/icons?i=discord)](https://discord.gg/kjYUWFFsfV)
+
+# 🛠️ Technologies I manage
+
+![LUA]
+(https://skillicons.dev/icons?i=lua)
+![JavaScript]
+(https://skillicons.dev/icons?i=js)
+![HTML]
+(https://skillicons.dev/icons?i=html)
+![CSS]
+(https://skillicons.dev/icons?i=css)
+![FiveM]
+(https://skillicons.dev/icons?i=fivem)
+
+# 🌟 Lo que hago
+Desarrollo **scripts optimizados** para **FiveM.**
+Mejoras en el **rendimiento de servidores y funcionalidades personalizadas** para mejorar la experiencia de los jugadores.
+Creación y mantenimiento de **Lacarma3**, un proyecto en constante evolución dentro de la comunidad **FiveM**.
+
+💬 **Siempre en constante evolución para ofrecer lo mejor a la comunidad. ¡Mantente al tanto de mis proyectos y novedades!** 🚀
+
