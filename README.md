@@ -1,6 +1,6 @@
-# 👋 ¡Hola! Soy @LobaFivem
-🚀 **Desarrollador especializado en LUA y FiveM.**
-Actualmente desarrollando **Lacarma3** y creando **scripts personalizados** para **FiveM.**
+# 👋 Hi! I'm @LobaFivem
+🚀 **Developer specialized in LUA and FiveM.**.
+Currently developing **Lacarma3** and creating **custom scripts** for **FiveM.**
 
 # 🔥 About Me
 🎯 **Areas of Expertise:**
@@ -24,10 +24,10 @@ Learning advanced LUA optimization techniques and exploring new tools in the Fiv
 ![VSCODE](https://skillicons.dev/icons?i=vscode)
 
 
-# 🌟 Lo que hago
-Desarrollo **scripts optimizados** para **FiveM.**
-Mejoras en el **rendimiento de servidores y funcionalidades personalizadas** para mejorar la experiencia de los jugadores.
-Creación y mantenimiento de **Lacarma3**, un proyecto en constante evolución dentro de la comunidad **FiveM**.
+# 🌟 What I do
+Develop **optimized** scripts for **FiveM.**.
+Improvements in **server performance and custom functionalities** to improve player experience.
+Creation and maintenance of **Lacarma3**, a constantly evolving project within the **FiveM** community.
 
-💬 **Siempre en constante evolución para ofrecer lo mejor a la comunidad. ¡Mantente al tanto de mis proyectos y novedades!** 🚀
+💬 **Always in constant evolution to offer the best to the community. stay tuned for my projects and news!** 🚀
 
