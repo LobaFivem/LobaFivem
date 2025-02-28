@@ -15,8 +15,7 @@ Learning advanced LUA optimization techniques and exploring new tools in the Fiv
 [![Discord]
 (https://skillicons.dev/icons?i=discord)](https://discord.gg/kjYUWFFsfV)
 
-# 🛠️ Technologies I manage
-
+:tools: Tech Stack
 ![LUA]
 (https://skillicons.dev/icons?i=lua)
 ![JavaScript]
@@ -27,6 +26,8 @@ Learning advanced LUA optimization techniques and exploring new tools in the Fiv
 (https://skillicons.dev/icons?i=css)
 ![FiveM]
 (https://skillicons.dev/icons?i=fivem)
+
+---
 
 # 🌟 Lo que hago
 Desarrollo **scripts optimizados** para **FiveM.**
