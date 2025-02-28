@@ -12,20 +12,14 @@ Implementation of advanced features within the FiveM framework.
 📚 Currently:
 Learning advanced LUA optimization techniques and exploring new tools in the FiveM ecosystem.
 ## 📬 Contact Me
-[![Discord]
-(https://skillicons.dev/icons?i=discord)](https://discord.gg/kjYUWFFsfV)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/kjYUWFFsfV)
 
 :tools: Tech Stack
-![LUA]
-(https://skillicons.dev/icons?i=lua)
-![JavaScript]
-(https://skillicons.dev/icons?i=js)
-![HTML]
-(https://skillicons.dev/icons?i=html)
-![CSS]
-(https://skillicons.dev/icons?i=css)
-![FiveM]
-(https://skillicons.dev/icons?i=fivem)
+![LUA](https://skillicons.dev/icons?i=lua)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![FiveM](https://skillicons.dev/icons?i=fivem)
 
 ---
 
